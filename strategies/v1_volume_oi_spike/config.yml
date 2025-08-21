@@ -1,0 +1,9 @@
+# Strategy config for v1_volume_oi_spike
+nz: 720           # Z-score window (5m bars)
+np: 21            # Price thrust lookback (5m bars)
+w_vol: 0.45
+w_oi: 0.35
+w_price: 0.20
+trigger_percentile: 98
+cooldown_bars: 24
+symbols_csv: "symbols.csv"
