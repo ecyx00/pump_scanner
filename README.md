@@ -198,12 +198,3 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## ⚠️ Uyarı
 
 Bu yazılım sadece eğitim ve araştırma amaçlıdır. Gerçek trading'de kullanmadan önce kapsamlı test yapın. Yazar, bu yazılımın kullanımından doğabilecek finansal kayıplardan sorumlu değildir.
-
-## 📞 İletişim
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
-**QuantZilla** - Alpha'nın Kod ile Buluştuğu Yer 🚀
